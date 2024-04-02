@@ -1,0 +1,4 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Hugo Demo Blog Site'
+theme = "hugo-theme-console"
